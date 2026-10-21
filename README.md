@@ -34,7 +34,7 @@ Want to continue? (Y/N):
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/weather-information-tool.git
+git clone (https://github.com/Amit-2119/Weather-Information.git)
 ```
 
 Alternatively, download the repository as a ZIP file from GitHub.
